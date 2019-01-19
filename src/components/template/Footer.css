@@ -1,0 +1,25 @@
+footer {
+    background-color: #373e46;
+    color:white;
+}
+
+footer .footer-left {
+    float: left;
+    margin-left:0;
+}
+
+footer .footer-right {
+    background-color: aqua;
+    float: right;
+}
+
+footer .copyright {
+    padding:0;
+    height:50px;
+}
+
+footer .copyright p {
+    height:50px; 
+    line-height: 50px;
+    margin-bottom: -25px;
+}

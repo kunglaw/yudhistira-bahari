@@ -1,0 +1,35 @@
+section {
+    padding: 20px;
+}
+
+nav ul.navbar-nav li a {
+    color:white
+}
+
+/* ===== header Home ==== */
+
+section.header { 
+    height: 300px;
+    padding:0 20px;
+    
+    background-image: url("../img/img_bg.png");
+    background-position:center;
+    background-size: cover;
+    color:white;
+    
+}
+
+section.header .container {
+    
+    height: 300px;
+   
+}
+
+section.header .container .vertical-center {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 300px;
+}
+
+/* ===== end header Home ==== */
