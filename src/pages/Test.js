@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Section from "./../components/organism/Section"
 import Card from '../components/molecule/Card';
 import Button from "../components/atoms/Button"
+import ContactForm from "../components/organism/ContactForm"
 
 
 class Test extends Component {
@@ -41,6 +42,9 @@ class Test extends Component {
                             <Button className="btn btn-primary"> Confirm </Button>
                         </Card>
                     </div>
+                    
+                    <div class="clearfix"></div>
+                    <ContactForm></ContactForm>
                     
                 </div>
                 

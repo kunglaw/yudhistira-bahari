@@ -8,8 +8,23 @@ footer .footer-left {
     margin-left:0;
 }
 
+footer .footer-left .sitemap {
+
+}
+
+footer .footer-left .sitemap ul {
+   
+    list-style-type: none;
+    text-align: left;
+}
+
+footer .footer-left .sitemap ul li {
+    text-decoration: none;
+  
+}
+
 footer .footer-right {
-    background-color: aqua;
+    
     float: right;
 }
 
